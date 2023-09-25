@@ -1,7 +1,7 @@
 ```markdown
 # Projeto Laravel
 
-Este é um projeto Laravel incrível que faz XYZ. Aqui está um guia rápido sobre como clonar e utilizar este projeto.
+Este é um projeto Laravel responsavel por criar e gerenciar ordens de serviço. Aqui está um guia rápido sobre como clonar e utilizar este projeto.
 
 ## Pré-requisitos
 
