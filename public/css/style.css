@@ -1,0 +1,122 @@
+
+body {
+    min-height: 100vg;
+    padding-bottom: 100px;
+    position: relative;
+}
+header{
+    background-color: #fff;
+    border-bottom: 1px solid #ccc;
+}
+.row{
+    margin: 0; 
+}
+
+.container-fluid{
+    padding: 0;
+}
+
+.btn-primary{
+    background-color: #f2a304;
+    border: 2px solid #c28008;  
+}
+.btn-primary:houver{
+    background-color: #f2a304;
+    border: #c28008; 
+}
+.msg{
+    background-color: #d4edda;
+    color: #155724;
+    border: 1px solid #c3e6cb;
+    width: 100%;
+    margin-bottom: 0;
+    text-align: center;
+    padding: 10px;
+}
+/*navbar*/
+#navbar img{
+    width: 40px;
+}
+
+#navbar{
+    justify-content: space-between;
+    background-color: #fff;
+    padding: 5px 0;
+}
+#navbar a{
+    font-size: 14px;
+    color: #757575;
+}
+#navbar a:houver{
+    color: #f2a304;
+}
+/*Search Container*/
+#search-container{
+   background-image: url("../img/banner-site-2.jpg");
+   background-size: cover;
+   background-position: center;
+   height: 400px;
+   padding: 50px;
+   text-align: center;
+}
+#search-container h1 {
+    color: #757575;
+    margin-top: 30px;
+    font-weight: 900;
+}
+#search-container form{
+    width: 50%;
+    margin: 0 auto;
+}
+/*orden list*/
+.row{
+    padding: 50px;
+}
+#row h2{
+    margin-bottom: 10px;
+}
+.subtitle{
+    color: #757575;
+    margin-bottom: 30px;
+}
+.row {
+    display: flex;
+}
+/*Dashboard*/
+.Dashboard-title-container{
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+.Dashboard-title-container th{
+    width: 25%;
+}
+.Dashboard-ordens-container form{
+   display: inline-block;
+}
+
+/*footer*/
+
+footer {
+    text-align: center;
+    background-color: #353e48;
+    color: #fff;
+    padding: 30px;
+    position: absolute;
+    bottom: 0%;
+    width: 100%;
+}
+footer{
+    margin-bottom: 0%;
+}
+/*Ordens create pag*/
+#ordens-create-container{
+    padding: 30px;
+}
+#ordens-create-container{
+    font-weight: bold;
+}
+#ordens-create-container input,
+#ordens-create-container select,
+#ordens-create-container textarea{
+    font-size: 12px;
+}
