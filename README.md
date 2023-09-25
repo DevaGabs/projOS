@@ -72,4 +72,3 @@ Se você quiser contribuir com este projeto, sinta-se à vontade para abrir uma 
 Este projeto está licenciado sob a [Licença MIT](LICENSE).
 ```
 
-Lembre-se de personalizar este `README.md` com informações específicas sobre o seu projeto, como uma descrição mais detalhada, instruções específicas de configuração, requisitos adicionais e assim por diante. Certifique-se também de incluir informações sobre como executar testes, se houver, e quaisquer outras informações relevantes para os usuários do seu projeto.
